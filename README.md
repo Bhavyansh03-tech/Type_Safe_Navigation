@@ -32,6 +32,7 @@ To implement Nested Navigation Compose, follow these steps:
 kotlin = "2.0.0"
 composeBom = "2024.05.00"
 navigationCompose = "2.8.0-beta02"
+kotlinxSerializationJson = "1.7.0-RC"
 
 [libraries]
 androidx-navigation-compose = { group = "androidx.navigation", name = "navigation-compose", version.ref = "navigationCompose" }
